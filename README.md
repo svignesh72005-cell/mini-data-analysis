@@ -43,7 +43,6 @@ It includes data cleaning, summary statistics, category-wise analysis, visualiza
                             
 2. Run the script:python analysis.py
 
-3. Run the script:
 ---
 
 ## 📈 Output
